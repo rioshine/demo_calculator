@@ -87,3 +87,4 @@
         </junitreport>
     </target>
     <target name="main" depends="cleanall, build, ConcateTest"/>
+</project>
